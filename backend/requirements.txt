@@ -1,0 +1,15 @@
+# Tested version set. Python 3.11 or 3.12 is recommended.
+fastapi==0.115.12
+uvicorn[standard]==0.34.3
+python-multipart==0.0.20
+python-dotenv==1.1.0
+pydantic==2.11.7
+numpy==2.2.6
+opencv-python==4.11.0.86
+scipy==1.15.3
+ultralytics==8.3.156
+lap==0.5.12
+PyYAML==6.0.2
+# Install the appropriate PyTorch build first; see README (CPU/CUDA).
+torch==2.7.1
+torchvision==0.22.1

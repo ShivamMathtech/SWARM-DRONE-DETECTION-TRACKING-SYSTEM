@@ -1,0 +1,11 @@
+# Resolved relative to this file by scripts/train.py and scripts/evaluate.py.
+path: .
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: drone
+# Optional additional classes (update annotations consistently):
+#  1: bird
+#  2: aircraft
+#  3: helicopter

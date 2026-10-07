@@ -1,0 +1,11 @@
+{
+  "runner": "Playwright 1.52.0 / Chromium 136",
+  "passed": 2,
+  "failed": 0,
+  "duration_seconds": 9.1,
+  "checks": [
+    "Synthetic demo: live frames, track selection, actual crop, pause/resume, settings and research exports",
+    "Uploaded AVI: actual untrained YOLO inference through WebSocket and Canvas"
+  ],
+  "scope": "Software integration validation only; no real-world drone accuracy established"
+}
